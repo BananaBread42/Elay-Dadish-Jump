@@ -6,5 +6,5 @@ body{
     text-align: center;
 }
 #board{
-    background-image: url("./game-bg.png");
+    background-color: lightblue;
 }
