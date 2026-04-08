@@ -1,1 +1,1 @@
-Dadish Jump is an endless vertical-platformer where players guide a Radish called "The Dadish" upward by jumping on platform. Player can either use the left and right arrow keys or a and d to control the Radish..
+Dadish Jump is an endless vertical-platformer where players guide a Radish called "The Dadish" upward by jumping on platform. Player can either use the left and right arrow keys or a and d to control the Radish.
